@@ -12,13 +12,13 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 
 ## Challenge content
 
-|            | QC Milestones                         | Problem                                                                                                                                          |
-|------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Exercise 1 | 1980: Toffoli gate                    | Construct a Toffoli gate using the basis gates (CX, RZ, SX and X gates) of IBM Quantum systems.                                                  |
-| Exercise 2 | 1994: Shor's algorithm                | Factor number 35 using Shor's algorithm.                                                                                                         |
-| Exercise 3 | 1995: Quantum error correction        | Implement a small quantum error correction code.                                                                                                 |
-| Exercise 4 | 2007: Transmon qubits                 | Using Qiskit Pulse, study the behavior of transmon qubits in IBM Quantum systems.                                                                |
-| Exercise 5 | 2014: Variational quantum eignesolver | Using VQE in Qiskit Nature, find the smallest ansatz with high chemical accuracy to simulate the ground state energy of lithium hydride molecule |
+|     | QC Milestones                         | Problem                                                                                                                                          |
+|-----|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ex1 | 1980: Toffoli gate                    | Construct a Toffoli gate using the basis gates (CX, RZ, SX and X gates) of IBM Quantum systems.                                                  |
+| Ex2 | 1994: Shor's algorithm                | Factor number 35 using Shor's algorithm.                                                                                                         |
+| Ex3 | 1995: Quantum error correction        | Implement a small quantum error correction code.                                                                                                 |
+| Ex4 | 2007: Transmon qubits                 | Using Qiskit Pulse, study the behavior of transmon qubits in IBM Quantum systems.                                                                |
+| Ex5 | 2014: Variational quantum eignesolver | Using VQE in Qiskit Nature, find the smallest ansatz with high chemical accuracy to simulate the ground state energy of lithium hydride molecule |
 
 ## FAQ
 
