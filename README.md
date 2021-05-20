@@ -22,6 +22,4 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 
 ## [Guidelines for participation](guidelines-for-participation.md)
 
-## FAQ
-
-Coming soon
+## [FAQ](faq.md)
