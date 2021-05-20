@@ -12,13 +12,13 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 
 ## Challenge content
 
-|     | QC Milestones                         | Problem                                                                                                                                          |
-|-----|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ex1 | 1980: Toffoli gate                    | Construct a Toffoli gate using the basis gates (CX, RZ, SX and X gates) of IBM Quantum systems.                                                  |
-| Ex2 | 1994: Shor's algorithm                | Factor number 35 using Shor's algorithm.                                                                                                         |
-| Ex3 | 1995: Quantum error correction        | Implement a small quantum error correction code.                                                                                                 |
-| Ex4 | 2007: Transmon qubits                 | Using Qiskit Pulse, study the behavior of transmon qubits in IBM Quantum systems.                                                                |
-| Ex5 | 2014: Variational quantum eignesolver | Using VQE in Qiskit Nature, find the smallest ansatz with high chemical accuracy to simulate the ground state energy of lithium hydride molecule |
+| Exercises                                   | English                                                                                     | 日本語                                                                                            |
+|---------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Ex1: Toffoli gate (1980)                    | [ex1](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1.ipynb) | [ex1-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1-ja.ipynb) |
+| Ex2: Shor's algorithm (1994)                | [ex2](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex2/ex2.ipynb) | [ex2-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex2/ex2-ja.ipynb) |
+| Ex3: Quantum error correction (1995)        | [ex3](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex3/ex3.ipynb) | [ex3-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex3/ex3-ja.ipynb) |
+| Ex4: Transmon qubits (2007)                 | [ex4](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4.ipynb) | [ex4-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4-ja.ipynb) |
+| Ex5: Variational quantum eignesolver (2014) | [ex5](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5.ipynb) | [ex5-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5-ja.ipynb) |
 
 ## FAQ
 
