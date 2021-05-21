@@ -107,5 +107,10 @@ You have to design your circuit in a manner ensuring that the qubits which are c
 
 You need to solve atleast one other exercise before getting special provider access needed to solve this exercise. See [here](https://github.com/qiskit-community/ibm-quantum-challenge-2021)
 
+#### I get the following error 
+```python
+"401 Client Error : Unauthorized for url... "
+```
+Check the following video to resolve the error 
 
-
+[![Exercise 4](https://yt-embed.herokuapp.com/embed?v=Nul1ld2ekOY)](https://www.youtube.com/watch?v=Nul1ld2ekOY)
