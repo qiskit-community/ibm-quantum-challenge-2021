@@ -12,9 +12,9 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 
 ## Challenge content
 
-| Exercises                                   | English                                                                                     | 日本語                                                                                            |
+| Exercises                                   | English                                                                                     | 日本語                                                                                            | 한국어 |
 |---------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Ex1: Toffoli gate (1980)                    | [ex1](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1.ipynb) | [ex1-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1-ja.ipynb) |
+| Ex1: Toffoli gate (1980)                    | [ex1](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1.ipynb) | [ex1-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1-ko.ipynb) |
 | Ex2: Shor's algorithm (1994)                | [ex2](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex2/ex2.ipynb) | [ex2-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex2/ex2-ja.ipynb) |
 | Ex3: Quantum error correction (1995)        | [ex3](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex3/ex3.ipynb) | [ex3-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex3/ex3-ja.ipynb) |
 | Ex4: Transmon qubits (2007)                 | [ex4](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4.ipynb) | [ex4-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4-ja.ipynb) |
