@@ -54,8 +54,8 @@ We have a lot of participants at the moment. Please be patient, wait and try aga
 
 If the grader shows an error in validating your answer, check your answer again by making sure the circuit implements the CCX function for any arbitrary input state with minimal phase difference upto a global phase and keeping in mind that only CX, RZ, SX and X gates are allowed .
 
-#### I get the following error 
-```python 
+#### I get the following error
+```
 Circuit contains invalid instruction {“instruction”: {measure}} for “unitary” method
 ```
 This error occurs if you use anything besides  CX, RZ, SX and X gates . Please do not add measurement gate at the end of the circuit.
@@ -66,8 +66,8 @@ The lowest cost discussed so far is 71.
 
 ## Exercise 2 - Shor's Algorithm
 
-#### I get the following error 
-```python 
+#### I get the following error
+```
 Circuit contains invalid instructions {"gates": {ccircuit-459}} for "unitary" method'
 ```
 This error occurs if you use gates other than the allowed gates i.e CNOT and U gates.
@@ -79,11 +79,11 @@ The lowest cost discussed so far is 6.
 ## Exercise 3 - Quantum Error Correction
 
 #### I get the following error
-```python 
+```
  “Oops! Circuit did provide a single output. Please review your answer and try again"
 ```
 
-It means that your circuit is providing multiple outputs. It should give one output in order to find which errors are there on code qubits. 
+It means that your circuit is providing multiple outputs. It should give one output in order to find which errors are there on code qubits.
 
 #### What does it mean that the circuit should be designed for the layout?
 
@@ -91,7 +91,7 @@ The qubits in a quantum circuit must be mapped to the physical qubits in a quant
 In ex3 you have to do precisely that. Tell the transpiler which circuit qubits to map to the physical qubits to minimize the addition of SWAP gates by the transpiler. In order to get it right, you need to modify the original circuit (or create your own) so that the mapping works.
 
 #### I get the following error
-```python
+```
 Please make sure the circuit is created to the initial layout
 ```
 The transpiler assigns your circuit’s qubits to each of physical qubit numbers specified in initial_layout list.
