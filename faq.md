@@ -44,9 +44,9 @@ There isn’t a max time limit to attempt a given problem. You may submit answer
 
 We have a lot of participants at the moment. Please be patient, wait and try again.
 
-#### I encountered this error “401 : Unauthorized You are not Authenticated to do this (1)” What should I do?
+#### I encountered this error `401 : Unauthorized You are not Authenticated to do this (1)` What should I do?
 
-We have a lot of participants at the moment. Please be patient, wait and try again.
+Please try registering an IBMid with the same email address you used for IBM Quantum account, log out, and log in using IBMid (not other login methods such as gmail, github).
 
 ## Exercise 1 - Toffoli Gate
 
@@ -107,10 +107,10 @@ You have to design your circuit in a manner ensuring that the qubits which are c
 
 You need to solve atleast one other exercise before getting special provider access needed to solve this exercise. See [here](https://github.com/qiskit-community/ibm-quantum-challenge-2021)
 
-#### I get the following error 
+#### I get the following error
 ```python
 "401 Client Error : Unauthorized for url... "
 ```
-Check the following video to resolve the error 
+Check the following video to resolve the error
 
 [![Exercise 4](https://yt-embed.herokuapp.com/embed?v=Nul1ld2ekOY)](https://www.youtube.com/watch?v=Nul1ld2ekOY)
