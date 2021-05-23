@@ -23,3 +23,5 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 ## [Guidelines for participation](guidelines-for-participation.md)
 
 ## [FAQ](faq.md)
+
+## [Hints for solving challenge exercises](https://github.com/qiskit-community/ibm-quantum-challenge-2021/blob/develop/Hints.md)
