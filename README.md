@@ -20,7 +20,7 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 | Ex4: Transmon qubits (2007)                 | [ex4](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4.ipynb) | [ex4-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4-ja.ipynb) | [ex4-ko](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4-ko.ipynb) |
 | Ex5: Variational quantum eignesolver (2014) | [ex5](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5.ipynb) | [ex5-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5-ja.ipynb) | [ex5-ko](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5-ko.ipynb) |
 
-**NOTE:** If you see `404 error` clicking the links above, please first to go to [the challenge portal](https://github.com/qiskit-community/ibm-quantum-challenge-2021) to trigger sync and try again.
+**NOTE:** If you see `404 error` clicking the links above, please first to go to [the challenge portal](https://ibm.co/iqc2021) to trigger sync and try again.
 
 ## [Guidelines for participation](guidelines-for-participation.md)
 
