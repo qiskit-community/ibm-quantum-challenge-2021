@@ -46,7 +46,20 @@ We have a lot of participants at the moment. Please be patient, wait and try aga
 
 #### I encountered this error `401 : Unauthorized You are not Authenticated to do this (1)` What should I do?
 
-Please try registering an IBMid with the same email address you used for IBM Quantum account, log out, and log in using IBMid (not other login methods such as gmail, github).
+Please try the following on a notebook on Quantum Lab?
+```python
+import os
+os.environ['QXToken'] = 'your token'
+print(os.getenv('QXToken'))
+```
+You can find your token here: https://quantum-computing.ibm.com/account. Make sure the output matches the token you copied from the account page.
+
+Run the code below to check if authentication is working. If you see a long string in the output, it means 401 error has been resolved.
+
+```python
+from qc_grader.api import get_access_token
+get_access_token()
+```
 
 ## Exercise 1 - Toffoli Gate
 
@@ -109,7 +122,7 @@ You need to solve atleast one other exercise before getting special provider acc
 
 #### I get the following error
 ```python
-"401 Client Error : Unauthorized for url... "
+"401 Client Error : Unauthorized for url... Login with some authorised provider required."
 ```
 Check the following video to resolve the error
 
