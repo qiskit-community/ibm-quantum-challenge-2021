@@ -2,12 +2,12 @@
 
 ## Exercise 1 - Toffoli gate
 
-![Hint ex1](images/ex1_hint.png)
+![Ex1 hint](images/ex1_hint.png)
 
 ## Exercise 3 - Quantum error correction
 
-[Hint ex3](https://twitter.com/decodoku/status/1397096214001332225?s=20)
+[Ex3 hint](https://twitter.com/decodoku/status/1397096214001332225?s=20)
 
 ## Exercise 4 - Transmon qubits
 
-![Hint ex4](images/ex4_hint.png)
+![Ex4 hint](images/ex4_hint.png)
