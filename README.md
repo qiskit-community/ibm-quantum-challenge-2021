@@ -12,6 +12,8 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 
 ## Challenge content
 
+**NOTE:** If you see `404 error` clicking the links below, please first to go to [the challenge portal](https://ibm.co/iqc2021) to trigger sync and try again.
+
 | Exercises                                   | English                                                                                     | 日本語                                                                                            | 한글은                                                                                            | française                                  |
 |---------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | Ex1: Toffoli gate (1980)                    | [ex1](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1.ipynb) | [ex1-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1-ja.ipynb) | [ex1-ko](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1-ko.ipynb) |[ex1-fr](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1-fr.ipynb) |
@@ -19,8 +21,6 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 | Ex3: Quantum error correction (1995)        | [ex3](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex3/ex3.ipynb) | [ex3-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex3/ex3-ja.ipynb) | [ex3-ko](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex3/ex3-ko.ipynb) |
 | Ex4: Transmon qubits (2007)                 | [ex4](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4.ipynb) | [ex4-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4-ja.ipynb) | [ex4-ko](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4-ko.ipynb) |
 | Ex5: Variational quantum eignesolver (2014) | [ex5](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5.ipynb) | [ex5-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5-ja.ipynb) | [ex5-ko](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5-ko.ipynb) |
-
-**NOTE:** If you see `404 error` clicking the links above, please first to go to [the challenge portal](https://ibm.co/iqc2021) to trigger sync and try again.
 
 ## [Guidelines for participation](guidelines-for-participation.md)
 
