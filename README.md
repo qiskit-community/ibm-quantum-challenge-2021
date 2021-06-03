@@ -1,4 +1,4 @@
-# IBM Quantum Challenge 2021
+# IBM Quantum Challenge 2021 中文版解答
 
 **The challenge is now LIVE!**
 
