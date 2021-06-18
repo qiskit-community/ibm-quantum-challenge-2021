@@ -1,9 +1,5 @@
 # IBM Quantum Challenge 2021
 
-**The challenge is now LIVE!**
-
-**You can [join the challenge](https://ibm.co/iqc2021) any time before 9pm EDT, May 26, 2021.**
-
 ## Introduction
 
 Commemorating the 40-year anniversary of the Physics of Computation conference, and 5-year anniversary of IBM putting the first quantum computer on the cloud, we're excited to present the IBM Quantum Challenge 2021.
@@ -12,7 +8,6 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 
 ## Challenge content
 
-**NOTE:** If you see `404 error` clicking the links below, please first to go to [the challenge portal](https://ibm.co/iqc2021) to trigger sync and try again.
 
 | Exercises                                   | English                                                                                     | 日本語                                                                                            | 한글                                                                                            | française                                  | español                                  |
 |---------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -24,7 +19,7 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 
 ## Top scorers
 
-Here's a list of 212 participants who have completed exercise 5 with the best solutions (3 CNOTs)
+Here's a list of 212 participants who have completed exercise 5 with the best solutions (3 CNOTs).
 
 - Aakash Aakash
 - Aakif Akhtar
