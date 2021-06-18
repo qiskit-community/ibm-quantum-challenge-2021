@@ -1,1 +1,12 @@
-# All memes related to IBM Quantum Challenge is welcome!!!
+# All memes related to IBM Quantum Challenge!!!
+![dashboard-jaja](dashboard-jaja.png)
+![dashboard-random](dashboard-random.png)
+![game-of-costs](game-of-costs.jpg)
+![goosebumps](goosebumps.jpg)
+![honest](honest.jpg)
+![how-mentors-reacted-to-ex5-scores](how-mentors-reacted-to-ex5-scores.jpg)
+![joker](joker.jpg)
+![leonardo-dicaprio](leonardo-dicaprio.png)
+![me-and-the-boys](me-and-the-boys.png)
+![peter-shor](peter-shor.png)
+![sleep_deprived](sleep_deprived.png)
