@@ -92,7 +92,7 @@ Here's a list of 212 participants who have completed exercise 5 with the best so
 - Hyun Jin Kim
 - Igor Tokarev
 - Ijas A H
-- Irham Putra
+- Irham Arfakhsadz Putra
 - Ishwor Khanal
 - Jacob Cybulski
 - Jakub Mrozek
