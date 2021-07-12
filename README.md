@@ -1,12 +1,12 @@
 # IBM Quantum Challenge 2021
 <img alt="Covalent" src="https://gitcdn.link/repo/Teradata/covalent/develop/src/assets/icons/covalent.svg" width="150">
-
+---
 ## Introduction
 
 Commemorating the 40-year anniversary of the Physics of Computation conference, and 5-year anniversary of IBM putting the first quantum computer on the cloud, we're excited to present the IBM Quantum Challenge 2021.
 
 Read more about the challenge in the [announcement blog](https://research.ibm.com/blog/quantum-challenge-2021) and find the [learning resources](https://medium.com/qiskit/ibm-quantum-challenge-2021-heres-what-to-expect-65a303753ffb) to prepare for the challenge.
-
+---
 ## Challenge content
 
 |                                             | English                      | Español                            | Français                           | हिन्दी                              | Bahasa Indonesia                   | 日本語                             | 한국어                             | Tiếng Việt                         |
@@ -16,7 +16,7 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 | Ex3: Quantum error correction (1995)        | [ex3](content/ex3/ex3.ipynb) | [ex3-es](content/ex3/ex3-es.ipynb) |                                    |                                    |                                    | [ex3-ja](content/ex3/ex3-ja.ipynb) | [ex3-ko](content/ex3/ex3-ko.ipynb) | [ex3-vi](content/ex3/ex3-vi.ipynb) |
 | Ex4: Transmon qubits (2007)                 | [ex4](content/ex4/ex4.ipynb) | [ex4-es](content/ex4/ex4-es.ipynb) |                                    |                                    |                                    | [ex4-ja](content/ex4/ex4-ja.ipynb) | [ex4-ko](content/ex4/ex4-ko.ipynb) |                                    |
 | Ex5: Variational quantum eigensolver (2014) | [ex5](content/ex5/ex5.ipynb) | [ex5-es](content/ex5/ex5-es.ipynb) |                                    | [ex5-hi](content/ex5/ex5-hi.ipynb) |                                    | [ex5-ja](content/ex5/ex5-ja.ipynb) | [ex5-ko](content/ex5/ex5-ko.ipynb) |                                    |
-
+---
 ## Top scorers
 
 Here's a list of 212 participants who have completed exercise 5 with the best solutions (3 CNOTs).
@@ -233,9 +233,10 @@ Here's a list of 212 participants who have completed exercise 5 with the best so
 - Zhixin Song
 - Zhiyong Zhang
 - Zoltan Andras Udvarnoki
-
+---
 ## [Guidelines for participation](guidelines-for-participation.md)
-
+---
 ## [FAQ](faq.md)
-
+---
 ## [Hints for solving challenge exercises](hints.md)
+---
